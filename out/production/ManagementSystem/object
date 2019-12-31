@@ -1,0 +1,12 @@
+TransAction=com.njwb.transaction.impl.TransActionImpl
+UserBean=com.njwb.entity.UserBean
+AccountBean=com.njwb.entity.AccountBean
+SuppilerBean=com.njwb.entity.SuppilerBean
+UserBeanDao=com.njwb.dao.impl.UserBeanDaoImpl
+AccountBeanDao=com.njwb.dao.impl.AccountBeanDaoImpl
+SuppilerBeanDao=com.njwb.dao.impl.SuppilerBeanDaoImpl
+MultiTableQueryDao=com.njwb.dao.impl.MultiTableQueryDaoImpl
+UserBeanService=com.njwb.service.impl.UserBeanServiceImpl
+AccountBeanService=com.njwb.service.impl.AccountBeanServiceImpl
+SuppilerBeanService=com.njwb.service.impl.SuppilerBeanServiceImpl
+MultiTableQueryService=com.njwb.service.impl.MultiTableQueryServiceImpl
